@@ -17,3 +17,5 @@ assembly guide: [for when you wanna look at its guts](https://github.com/clockwo
 - you can change to whichever version you want by following the link [here](https://github.com/clockworkpi/DevTerm).
 - I haven't done anything to the devterm except customize the UI to make it look like windows 95.
 - to install a new version, extract the image from the tar file, then flash the firmware to the sd card using the instructrions in the page.
+
+currently the admin password is "throne"
